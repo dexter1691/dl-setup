@@ -146,6 +146,8 @@ There are several great guides with a similar goal. Some are limited in scope, w
         sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler
         sudo apt-get install --no-install-recommends libboost-all-dev
         sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
+
+* See instructions for installing Caffe with OpenCV 3.1 here: https://github.com/BVLC/caffe/wiki/OpenCV-3.1-Installation-Guide-on-Ubuntu-16.04
         
 * Clone the Caffe repo
 
