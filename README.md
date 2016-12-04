@@ -189,7 +189,8 @@ Enter the unpacked directory. Execute:
 * If you installed OpenBLAS, modify the `BLAS` parameter value to `open`
 
         sed -i 's/BLAS := atlas/BLAS := open/' Makefile.config
-        
+* If you run into make issues related to hdf5, try this: https://gist.github.com/wangruohui/679b05fcd1466bb0937f#fix-hdf5-naming-problem
+
 * Install the requirements, build Caffe, build the tests, run the tests and ensure that all tests pass. Note that all this takes a while
 
         sudo pip install -r python/requirements.txt
