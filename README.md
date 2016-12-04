@@ -143,6 +143,8 @@ There are several great guides with a similar goal. Some are limited in scope, w
 ### OpenCV
 In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.1 from source. 
 
+* Look at this to install 3.1.0 with CUDA: https://github.com/opencv/opencv/issues/6677
+
 ```
 sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes build-essential pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
