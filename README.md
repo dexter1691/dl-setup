@@ -109,6 +109,8 @@ There are several great guides with a similar goal. Some are limited in scope, w
  
 
 ### Tensorflow
+* [UPDATE]: https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
+
 * This installs v0.8 with GPU support. Instructions below are from [here](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html)
 
         sudo apt-get install python-pip python-dev
