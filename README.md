@@ -167,6 +167,8 @@ Enter the unpacked directory. Execute:
 
 
 ### Caffe
+* [UPDATE]: Just follow this guide for 16.04, https://github.com/IraAI/caffe-gpu-installation/wiki/How-to-install-Caffe-on-Ubuntu-16.04-with-GPU-(Cuda-8,-CuDNN-5.1)
+
 * The following instructions are from [here](http://caffe.berkeleyvision.org/install_apt.html). The first step is to install the pre-requisites
 
         sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler
